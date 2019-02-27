@@ -13,6 +13,7 @@ namespace Bai_thuc_hanh_dau_tien
     {
         public Form1()
         {
+            ///hieu sua code cua dat
             InitializeComponent();
         }
     }
