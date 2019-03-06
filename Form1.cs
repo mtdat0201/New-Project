@@ -17,7 +17,7 @@ namespace Bai_thuc_hanh_dau_tien
             InitializeComponent();
         }
 
-        int a = int.Parse(txt1.Text);
-
+        int b = int.Parse(txt2.text);
+        int a = int.Parse(txt1.text);
     }
 }
