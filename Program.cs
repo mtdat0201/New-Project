@@ -17,5 +17,6 @@ namespace Bai_thuc_hanh_dau_tien
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        abc da sua
     }
 }
