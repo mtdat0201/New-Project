@@ -17,7 +17,7 @@ namespace Bai_thuc_hanh_dau_tien
             InitializeComponent();
         }
 
-        if(!string)
+        int a = int.Parse(txt1.Text);
 
     }
 }
