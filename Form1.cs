@@ -16,5 +16,8 @@ namespace Bai_thuc_hanh_dau_tien
             ///hieu sua code cua dat
             InitializeComponent();
         }
+
+        if(!string)
+
     }
 }
